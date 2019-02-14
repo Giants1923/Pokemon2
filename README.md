@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Giants1923/Pokemon2/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Giants1923/Pokemon2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Why I Like Pokèmon</title>
+    
+     <style>
+         h1{
+          color:blue;   
+          font-family:sans-serif,serif;
+          font-weight:bold;
+          background-color:rgb(49, 196, 137);  
+         }
+        ul{
+        font-family:serif;    
+        font-weight:bold;
+        color:rgb(16, 51, 207);    
+        font-size:20px;
+            
+        }
+     #PokemonSong{
+     color:purple;    
+     font-family:cursive,fantasy;
+     font-size:15px;    
+     background-color:rgb(91, 214, 43);
+         
+     }
+      h2{
+      color:rgb(237, 9, 226);    
+      background-color:rgb(85, 0, 255);
+          
+      }   
+     </style>   
+        
+        
+    </head>
+    <body>
+    <h1>Why I like Pokèmon</h1>
+    <ul>
+    <li>
+     The Pokemon games ammassed over 800 different kinds of Pokemon!!    
+     
+         
+     </li>   
+    <li>
+      Pokemon Ultra Sun is very good. even after finishing the game there is still more to do!!  
+    </li>
+        <li>
+        Pokemon have different varieties!!    
+        </li>    
+    </ul>
+    <h2>
+     Here is the pokemon Theme song.
+    </h2>
+    <p id="PokemonSong">
+     I want to be the very best,<br>
+Like no one ever was.
+To catch them is my real test,<br>
+To train them is my cause!
+(I will travel across the land,<br>
+Searching far and wide.
+Each Pokemon to understand
+The power that's inside!)<br>
+Pokemon!
+Gotta catch em' all!
+It's you and me,
+I know it's my destiny!
+Pokemon!
+Oh, you're my best friend,
+In a world we must defend!<br>
+Pokemon!
+Gotta catch em' all!
+(A heart so true,
+Our courage will pull us through!)<br>
+You teach me and I'll teach you,
+Po-ke-mon!
+Gotta catch em' all!
+Gotta catch em' all!
+ Po-ke-mon!!!  
+    </p>
+    </body>
+</html>
